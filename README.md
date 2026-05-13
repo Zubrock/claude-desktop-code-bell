@@ -1,6 +1,8 @@
-# 🔔 claude-desktop-code-bell
+# 🔔 claude-desktop-code-bell — *Ding Dong!*
 
 **Sound notifications for Claude Code on macOS** — never miss a permission prompt again.
+
+> *Ding Dong!* — that's the sound of Claude finally getting your attention. No more silent waiting.
 
 Claude Code works silently by default. When it needs your approval (file edits, bash commands), there's no sound — you have to stare at the screen. This tiny tool fixes that with native macOS sounds, zero dependencies.
 

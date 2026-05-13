@@ -37,7 +37,7 @@ SOUNDS=(
 )
 
 echo ""
-echo -e "${BELL} ${GREEN}claude-desktop-code-bell${NC} installer"
+echo -e "${BELL} ${GREEN}claude-desktop-code-bell${NC} — ${YELLOW}Ding Dong!${NC}"
 echo -e "   Sound notifications for Claude Code on macOS"
 echo ""
 
@@ -181,7 +181,7 @@ else
 fi
 
 echo ""
-echo -e "${GREEN}${CHECK} Installation complete!${NC}"
+echo -e "${GREEN}${CHECK} Installation complete! Ding Dong! 🔔${NC}"
 echo ""
 echo -e "  ${BELL} Permission prompt → ${GREEN}${PERMISSION_SOUND}${NC}"
 echo -e "  ${BELL} Claude finished   → ${GREEN}${STOP_SOUND}${NC}"
