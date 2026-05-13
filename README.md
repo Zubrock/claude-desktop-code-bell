@@ -118,3 +118,7 @@ A: No. This uses macOS-specific `afplay`. PRs welcome for cross-platform support
 ## License
 
 MIT
+
+---
+
+<p align="center">Made with 🤍 by <a href="https://github.com/Zubrock">Zubrock</a></p>
