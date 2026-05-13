@@ -1,5 +1,9 @@
 # 🔔 claude-desktop-code-bell — *Ding Dong!*
 
+<p align="center">
+  <img src="ding-dong-banner.png" alt="Ding Dong! — Sound notifications for Claude Code" width="700">
+</p>
+
 **Sound notifications for Claude Code on macOS** — never miss a permission prompt again.
 
 > *Ding Dong!* — that's the sound of Claude finally getting your attention. No more silent waiting.
